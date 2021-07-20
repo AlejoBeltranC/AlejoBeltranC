@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    I am a Student of  <a href="https://www.misiontic2022.gov.co/portal/"> <b>Mision TIC 2022 and Systems Engineer</b></a>. <br>
+    I am a Student of  <a href="https://www.misiontic2022.gov.co/portal/Secciones/Mision-TIC-2022/"> <b>Mision TIC 2022 and Systems Engineer</b></a>. <br>
     I love building <b>Web applications</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and <b>Mobiles applications,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">
   </em>  
 </p>
